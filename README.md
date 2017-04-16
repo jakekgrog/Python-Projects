@@ -5,6 +5,4 @@ A collection of Python Projects.
 
 `ghost.py` Command-line tool to create a template directory structure for a website.
 
-`password-saver.py` Command-line tool to store and retrieve names of passwords for sites from a hidden file.
-
 `rpn-calculator.py` Command-line Reverse Polish Notation calculator.
